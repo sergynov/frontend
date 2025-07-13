@@ -1,0 +1,73 @@
+
+.app {
+	text-align: center;
+	max-width: 700px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.error {
+	color: var(--error-color);
+	font-weight: bold;
+}
+
+.page-heading {
+	margin: 0 0 0.5rem;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.no-margin-text {
+	margin: 0;
+}
+
+.current-value {
+	font-weight: bold;
+}
+
+.buttons-container {
+	margin-top: 1.5rem;
+	display: flex;
+	justify-content: center;
+	gap: 10px;
+}
+
+.button {
+	padding: 0.5em 0.75em;
+	background-color: hsl(var(--accent-color-hue), var(--accent-color-saturation), 92%);
+	font-size: 18px;
+	border: none;
+	transition: background-color 0.15s ease;
+}
+
+.button:hover {
+	background-color: hsl(var(--accent-color-hue), var(--accent-color-saturation), 87%);
+}
+
+.button:active {
+	background-color: hsl(var(--accent-color-hue), var(--accent-color-saturation), 82%);
+}
+
+.button:disabled {
+	background-color: var(--disabled-color);
+}
+
+.list-container {
+	margin-top: 1.5rem;
+}
+
+.list-heading {
+	font-size: 20px;
+	font-weight: bold;
+	margin: 0 0 0.5rem;
+}
+
+.list {
+	text-align: left;
+	margin: 0 auto;
+	max-width: 300px;
+}
+
+.list-item:not(:last-child) {
+	margin-bottom: 0.5em;
+}
