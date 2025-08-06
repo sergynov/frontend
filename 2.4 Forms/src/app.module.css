@@ -1,0 +1,29 @@
+.form-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.errorLabel {
+  color: red;
+  width: 210px;
+  height: 70px;
+}
+
+.input {
+  width: 200px;
+  height: 30px;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.send-button {
+  border: 2px solid;
+  border-radius: 4px;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.send-button:hover {
+  background-color: rgb(176, 203, 203);
+}
