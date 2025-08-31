@@ -1,0 +1,139 @@
+.wrapper {
+  max-width: 700px;
+  margin-left: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  height: 40px;
+  padding: 10px;
+  background-color: rgba(72, 154, 172, 0.992);
+}
+
+.list-item-content {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.addTask{
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  margin-bottom: 10px;
+}
+.newtask{
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  margin-left: 10px;
+  height: 30px;
+  width: 280px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.task-link{
+  text-decoration: none;
+  color: #010101;
+}
+
+.checkbox {
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.button {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.button:first-child {
+  margin-left: 0px;
+}
+
+.addButton {
+  width: 100px;
+  height: 50px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 23px;
+  margin-left: 30px;
+  flex: 0 0 auto;
+  font-weight: 700;
+}
+
+.task-change {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.task-title {
+  width: 300px;
+  height: 30px;
+  margin-bottom: 10px;
+  border: 1px solid  black;
+  border-radius: 5px;
+}
+
+.task-body{
+  width: 300px;
+  height: 40px;
+  margin-bottom: 10px;
+  border: 1px solid  black;
+  border-radius: 5px;
+}
+
+.loader {
+  border: 2px solid gray;
+  border-radius: 50%;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 25px;
+  height: 25px;
+  border-left-color: transparent;
+  animation: loader 1s infinite;
+}
+
+@keyframes loader {
+  0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.search {
+  height: 30px;
+  width: 300px;
+  border: 0.5px solid black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
