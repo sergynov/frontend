@@ -1,0 +1,5 @@
+export * from './select-gameField'
+export * from './select-currentPlayer'
+export * from './select-isDraw'
+export * from './select-isGameEnded'
+export * from './select-winnerPlayer'

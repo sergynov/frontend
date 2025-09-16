@@ -1,0 +1,1 @@
+export const selectGameField = (state)=>state.gameField
