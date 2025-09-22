@@ -1,0 +1,1 @@
+export const selectIsSorted = (state) => state.display.isSorted

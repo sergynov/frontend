@@ -1,0 +1,1 @@
+export const selectNewTitle = (state) => state.form.newTitle

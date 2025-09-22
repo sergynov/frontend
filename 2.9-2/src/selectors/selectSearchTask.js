@@ -1,0 +1,1 @@
+export const selectSearchTask = (state) => state.display.searchTask

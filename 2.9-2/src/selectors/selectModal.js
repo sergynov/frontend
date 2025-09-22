@@ -1,0 +1,1 @@
+export const selectIsModalOpen = (state) => state.display.isModalOpen

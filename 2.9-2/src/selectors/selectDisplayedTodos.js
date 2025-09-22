@@ -1,0 +1,1 @@
+export const selectDisplayedTodos = (state) => state.task.displayedItems

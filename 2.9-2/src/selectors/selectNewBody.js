@@ -1,0 +1,1 @@
+export const selectNewBody = (state) => state.form.newBody
