@@ -1,0 +1,328 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "login": "sergeynov07@gmail.com",
+      "password": "dwwwwE22",
+      "registered_at": "09-10-2025",
+      "role_id": 0
+    },
+    {
+      "id": "886c",
+      "login": "ivan222@gmail.com",
+      "password": "holaholA5",
+      "registered_at": "2040-12-26 11:56",
+      "role_id": 1
+    },
+    {
+      "login": "petya@gmail.com",
+      "password": "Qwerty123",
+      "registered_at": "2037-02-01 02:27",
+      "role_id": 2,
+      "id": "me9flDK"
+    }
+  ],
+  "roles": [
+    {
+      "id": "0",
+      "name": "Adminstrator"
+    },
+    {
+      "id": "1",
+      "name": "Moderator"
+    },
+    {
+      "id": "2",
+      "name": "Reader"
+    },
+    {
+      "id": "3",
+      "name": "Guest"
+    }
+  ],
+  "posts": [
+    {
+      "id": "001",
+      "title": "The Evolution and Impact of Text Generators in Modern Communication ",
+      "image_url": "https://fastly.picsum.photos/id/527/384/240.jpg?hmac=PrZa8RxPLIK_uugmM0sA35gRfoPQ6LE-sCdK5EUwxYI",
+      "content": "The light through my window wasn’t dramatic — just soft, patient sunlight that seemed to whisper “hey, it’s time.” I sat there for a while, coffee in hand, trying to convince myself to move. It’s funny how mornings can feel both full of promise and a little heavy at the same time. And maybe that’s what nudged me into thinking about the way we communicate now — how much of our words are ours, and how much are shaped, guided, or even suggested by the tools we use. Text generators used to feel like distant curiosities, something confined to labs or niche projects. But somewhere between the slow rise of that morning sun and the first sip of coffee, it struck me how seamlessly they’ve woven themselves into our daily interactions. At first, they were helpers. A nudge when we didn’t know how to start an email. A polite suggestion for a reply we were too tired to compose. Tiny conveniences, subtle and almost invisible. But as the technology grew, so did our reliance on it — not out of laziness, but out of a desire to communicate better, clearer, faster. There’s a strange intimacy in letting a machine finish your sentence. It’s a quiet acknowledgment that language is hard, that emotions don’t always translate neatly into words, that sometimes we all need a little assistance. And instead of replacing our voice, these systems began amplifying it. They learned our rhythms, our preferences, the little quirks that make our writing feel like us. But with that closeness came new questions. Where does authenticity end and automation begin? If a message comforts someone, does it matter whether a human or a model generated it? Are we surrendering something essential when we lean on these tools, or are we simply evolving the way we express ourselves? These aren’t easy questions, but they shape the moment we’re living in. Because text generators are no longer just software — they’re becoming collaborators. Co-authors of morning thoughts, assistants in moments of uncertainty, bridges between people who might otherwise struggle to find the right words. And maybe that’s the real story here: not the technology itself, but the quiet ways it influences how we connect, how we think, and how we understand one another. \n\n",
+      "published_at": "10-10-2025"
+    },
+    {
+      "id": "002",
+      "title": "When Ideas Find You",
+      "image_url": "https://fastly.picsum.photos/id/121/384/240.jpg?hmac=HG2p6oL1Apu12_p4N9AUi1ZM847KxTJgmP97zdC34KU",
+      "content": "Sometimes the best ideas come when you’re not even looking for them. You might be walking home, half-distracted by your thoughts, and suddenly something just clicks. It’s funny how the mind works — it resists pressure, but thrives in quiet moments. Maybe that’s why so many good thoughts happen in the shower or during a walk.",
+      "published_at": "20-10-2025"
+    },
+    {
+      "id": "003",
+      "title": "The Calm Between Moments",
+      "image_url": "https://fastly.picsum.photos/id/797/384/240.jpg?hmac=rMItyBPafppkITa0upEKx4Y4U3xP7mgU32Fzluo9LZg",
+      "content": "Life moves fast, and sometimes it feels like everything demands your attention at once. Deadlines, messages, responsibilities — they all pull you in different directions. But in between those moments of chaos, there’s a quiet space waiting to be noticed. It’s the pause before you answer, the deep breath before you start again.\n\nWhen you slow down enough to find that space, things begin to make sense. You start to see what really matters, and what can be let go. The calm between moments isn’t empty — it’s full of clarity, peace, and a gentle reminder that you’re allowed to simply be.",
+      "published_at": "10-12-2025"
+    },
+    {
+      "id": "004",
+      "title": "Chasing the Morning Light",
+      "image_url": "./public/pics/1.jpg",
+      "content": "There’s something magical about early mornings — the way the world feels quiet, yet full of potential. The air is cool, the streets are still, and the light stretches softly across the ground, as if waking everything up with care. It’s a reminder that every day begins with a chance to start again, no matter how heavy yesterday felt.\n\nIn those first moments of the day, thoughts are clearer and dreams still linger. You can feel the space between what you’ve been and what you want to become. It’s in that space that small decisions — like taking a walk, writing a few lines, or simply breathing deeply — can shape the tone of the entire day.\n\nBy the time the sun climbs higher, life begins to speed up again. The noise returns, the pace quickens, and responsibilities take over. But if you carry a bit of that morning calm with you, even the busiest days can feel lighter. The light you chase in the morning doesn’t just rise outside — it rises within you too.",
+      "published_at": "1-05-2026"
+    },
+    {
+      "id": "39f2",
+      "image_url": "https://fastly.picsum.photos/id/716/384/240.jpg?hmac=5WVCy5Jt3uhllsUU-VpQHY7QjsZVrrd8HlXBCYVf_Y4",
+      "title": "Example 1",
+      "published_at": "2035-02-20 00:59",
+      "content": "wefwefew"
+    },
+    {
+      "id": "ca14",
+      "image_url": "https://fastly.picsum.photos/id/393/384/240.jpg?hmac=4qFs-F699-QccKO_V-IQ6Z-hrJVDbjBI1tHhl0lUNNA",
+      "title": "New Post made ",
+      "published_at": "2035-02-23 15:12",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sollicitudin, ligula ac rhoncus varius, tortor magna vestibulum nibh, sit amet lobortis ante metus at neque. Aenean faucibus sit amet turpis eu efficitur. Cras mattis orci semper eros congue, vitae dignissim magna placerat. Nam id rutrum massa. Curabitur non sem sed dui elementum dapibus non ac nisi. Donec neque enim, ultricies quis faucibus non, varius sit amet nulla. Quisque purus justo, dignissim et ipsum eu, volutpat pellentesque risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris fringilla quam vitae interdum tincidunt. Nunc commodo augue non quam porttitor, nec faucibus diam fringilla. Integer sed nisl ut orci fermentum sodales. Aliquam quis risus ac arcu dictum consequat. Donec aliquet eros et nunc mattis pretium eu quis lacus. Sed fringilla mi ac arcu venenatis, at accumsan purus faucibus.\n\nIn hac habitasse platea dictumst. Duis pulvinar, turpis quis ultrices venenatis, libero lacus porta ligula, sit amet euismod sapien enim id lacus. Quisque id tempus nisl, in ullamcorper velit. In accumsan ante vulputate volutpat volutpat. Nam varius eu eros id lacinia. Cras sed est sed lorem vestibulum finibus id sed massa. Praesent eu consequat mi, sit amet lobortis sem. Quisque porttitor sem sit amet ullamcorper dictum. Praesent feugiat turpis eu ante dapibus, vitae malesuada orci eleifend. Aliquam erat volutpat. Etiam id lacus aliquam, varius dolor et, commodo libero. Fusce ultricies dui eu sapien euismod consequat. Maecenas facilisis aliquam auctor. Curabitur consequat lacinia elit, eget tempus magna posuere ornare. Curabitur erat mi, hendrerit pharetra est eu, gravida lacinia velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+    },
+    {
+      "id": "005",
+      "title": "The Evolution and Impact of Text Generators in Modern Communication ",
+      "image_url": "https://fastly.picsum.photos/id/527/384/240.jpg?hmac=PrZa8RxPLIK_uugmM0sA35gRfoPQ6LE-sCdK5EUwxYI",
+      "content": "The light through my window wasn’t dramatic — just soft, patient sunlight that seemed to whisper “hey, it’s time.” I sat there for a while, coffee in hand, trying to convince myself to move. It’s funny how mornings can feel both full of promise and a little heavy at the same time. And maybe that’s what nudged me into thinking about the way we communicate now — how much of our words are ours, and how much are shaped, guided, or even suggested by the tools we use. Text generators used to feel like distant curiosities, something confined to labs or niche projects. But somewhere between the slow rise of that morning sun and the first sip of coffee, it struck me how seamlessly they’ve woven themselves into our daily interactions. At first, they were helpers. A nudge when we didn’t know how to start an email. A polite suggestion for a reply we were too tired to compose. Tiny conveniences, subtle and almost invisible. But as the technology grew, so did our reliance on it — not out of laziness, but out of a desire to communicate better, clearer, faster. There’s a strange intimacy in letting a machine finish your sentence. It’s a quiet acknowledgment that language is hard, that emotions don’t always translate neatly into words, that sometimes we all need a little assistance. And instead of replacing our voice, these systems began amplifying it. They learned our rhythms, our preferences, the little quirks that make our writing feel like us. But with that closeness came new questions. Where does authenticity end and automation begin? If a message comforts someone, does it matter whether a human or a model generated it? Are we surrendering something essential when we lean on these tools, or are we simply evolving the way we express ourselves? These aren’t easy questions, but they shape the moment we’re living in. Because text generators are no longer just software — they’re becoming collaborators. Co-authors of morning thoughts, assistants in moments of uncertainty, bridges between people who might otherwise struggle to find the right words. And maybe that’s the real story here: not the technology itself, but the quiet ways it influences how we connect, how we think, and how we understand one another. \n\n",
+      "published_at": "10-10-2025"
+    },
+    {
+      "id": "006",
+      "title": "When Ideas Find You",
+      "image_url": "https://fastly.picsum.photos/id/121/384/240.jpg?hmac=HG2p6oL1Apu12_p4N9AUi1ZM847KxTJgmP97zdC34KU",
+      "content": "Sometimes the best ideas come when you’re not even looking for them. You might be walking home, half-distracted by your thoughts, and suddenly something just clicks. It’s funny how the mind works — it resists pressure, but thrives in quiet moments. Maybe that’s why so many good thoughts happen in the shower or during a walk.",
+      "published_at": "20-10-2025"
+    },
+    {
+      "id": "007",
+      "title": "The Calm Between Moments",
+      "image_url": "https://fastly.picsum.photos/id/1018/384/240.jpg?hmac=XLgbkH6Q2nIEXXzLyshhRBvI94lljDfMXf9J8bN2Cas",
+      "content": "Life moves fast, and sometimes it feels like everything demands your attention at once. Deadlines, messages, responsibilities — they all pull you in different directions. But in between those moments of chaos, there’s a quiet space waiting to be noticed. It’s the pause before you answer, the deep breath before you start again.\n\nWhen you slow down enough to find that space, things begin to make sense. You start to see what really matters, and what can be let go. The calm between moments isn’t empty — it’s full of clarity, peace, and a gentle reminder that you’re allowed to simply be.",
+      "published_at": "10-12-2025"
+    },
+    {
+      "id": "008",
+      "title": "Chasing the Morning Light",
+      "image_url": "./public/pics/1.jpg",
+      "content": "There’s something magical about early mornings — the way the world feels quiet, yet full of potential. The air is cool, the streets are still, and the light stretches softly across the ground, as if waking everything up with care. It’s a reminder that every day begins with a chance to start again, no matter how heavy yesterday felt.\n\nIn those first moments of the day, thoughts are clearer and dreams still linger. You can feel the space between what you’ve been and what you want to become. It’s in that space that small decisions — like taking a walk, writing a few lines, or simply breathing deeply — can shape the tone of the entire day.\n\nBy the time the sun climbs higher, life begins to speed up again. The noise returns, the pace quickens, and responsibilities take over. But if you carry a bit of that morning calm with you, even the busiest days can feel lighter. The light you chase in the morning doesn’t just rise outside — it rises within you too.",
+      "published_at": "1-05-2026"
+    },
+    {
+      "image_url": "https://fastly.picsum.photos/id/807/384/240.jpg?hmac=NIypE6H49FQc1JZE55Vr6hcYL9oDZV-KDzbemMXyj4U",
+      "title": "Innovation as the Engine of Modern Progress",
+      "published_at": "2048-07-04 19:17",
+      "content": "Innovation has always been a driving force behind human progress. From the earliest tools carved from stone to the advanced digital systems we rely on today, innovation shapes the way we work, communicate, and understand the world. It allows societies to adapt to new challenges and discover opportunities that were once unimaginable.\n\nIn the modern era, technology has accelerated the pace of innovation dramatically. Every year brings new breakthroughs in artificial intelligence, renewable energy, biotechnology, and space exploration. These developments not only transform industries but also influence everyday life, making tasks faster, safer, and more efficient.\n\nHowever, rapid innovation also presents a set of unique challenges. Ethical considerations, environmental impact, and social responsibility must be addressed alongside technological progress. Ensuring that advancements benefit society as a whole requires thoughtful planning, collaboration, and regulation.\n\nDespite these challenges, the potential for positive change remains enormous. By fostering creativity, supporting research, and encouraging global cooperation, humanity can continue to innovate in ways that improve quality of life and promote a sustainable future. The key lies in balancing progress with responsibility.",
+      "id": "0_w0HsE"
+    }
+  ],
+  "comments": [
+    {
+      "id": "004d",
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2040-03-02 04:26",
+      "content": "444"
+    },
+    {
+      "id": "ac00",
+      "author_id": "001",
+      "post_id": "ca14",
+      "published_at": "2040-11-24 09:18",
+      "content": "First comment\n"
+    },
+    {
+      "id": "8630",
+      "author_id": "001",
+      "post_id": "ca14",
+      "published_at": "2049-11-26 23:11",
+      "content": "Second comment"
+    },
+    {
+      "author_id": "001",
+      "post_id": "002",
+      "published_at": "2044-11-18 12:26",
+      "content": "Comment",
+      "id": "5hHE2JU"
+    },
+    {
+      "author_id": "001",
+      "post_id": "002",
+      "published_at": "2056-08-16 01:00",
+      "content": "comment 2\n",
+      "id": "yT6rFDr"
+    },
+    {
+      "author_id": "886c",
+      "post_id": "002",
+      "published_at": "2048-11-01 06:24",
+      "content": "Comment 3",
+      "id": "JVog3gY"
+    },
+    {
+      "author_id": "001",
+      "post_id": "0_w0HsE",
+      "published_at": "2058-11-03 15:53",
+      "content": "One more comment",
+      "id": "-K1JnY5"
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2064-06-06 02:46",
+      "content": "Coment 1",
+      "id": "MOnEHOn"
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2040-05-27 21:30",
+      "content": "Comment 2",
+      "id": "0NwCmGs"
+    },
+    {
+      "author_id": "001",
+      "post_id": "001",
+      "published_at": "2064-08-09 22:44",
+      "content": "Comment 3",
+      "id": "ESurCWi"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "2a36",
+      "hash": "0.46069978200653571853706580441212281584739685058594",
+      "user": {
+        "id": "886c",
+        "login": "ivan222@gmail.com",
+        "registered_at": "2040-12-26 11:56",
+        "roleId": 0,
+        "password": "holaholA5"
+      }
+    },
+    {
+      "id": "2517",
+      "hash": "0.74060575380285398328084056629450060427188873291016",
+      "user": {
+        "id": "886c",
+        "login": "ivan222@gmail.com",
+        "registered_at": "2040-12-26 11:56",
+        "roleId": 0,
+        "password": "holaholA5"
+      }
+    },
+    {
+      "id": "babd",
+      "hash": "0.56914395860809974259097998583456501364707946777344",
+      "user": {
+        "id": "886c",
+        "login": "ivan222@gmail.com",
+        "registered_at": "2040-12-26 11:56",
+        "roleId": 0,
+        "password": "holaholA5"
+      }
+    },
+    {
+      "id": "efb7",
+      "hash": "0.49686630165892098354163408657768741250038146972656",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "id": "a4f5",
+      "hash": "0.50111782019210548977383723467937670648097991943359",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "id": "4dd4",
+      "hash": "0.87767010008423929079413028375711292028427124023438",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "id": "8c8a",
+      "hash": "0.98811159567832917982599383321939967572689056396484",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "id": "6574",
+      "hash": "0.75404049119317761995517912509967572987079620361328",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "id": "83f0",
+      "hash": "0.38668560566887322238471824675798416137695312500000",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      }
+    },
+    {
+      "hash": "0.46491956359259256625904299653484486043453216552734",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      },
+      "id": "RCM10m5"
+    },
+    {
+      "hash": "0.38039999566510507289507359018898569047451019287109",
+      "user": {
+        "id": "886c",
+        "login": "ivan222@gmail.com",
+        "registered_at": "2040-12-26 11:56",
+        "roleId": 1,
+        "password": "holaholA5"
+      },
+      "id": "eRZS4J5"
+    },
+    {
+      "hash": "0.62946918402185469965104402945144101977348327636719",
+      "user": {
+        "id": "001",
+        "login": "sergeynov07@gmail.com",
+        "registered_at": "09-10-2025",
+        "roleId": 0,
+        "password": "dwwwwE22"
+      },
+      "id": "ttQddsq"
+    }
+  ]
+}
