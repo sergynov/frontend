@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+  <title>Appointment app</title>
+</head>
+<body>
+
+
+  <%- include('./partials/guest-header') %>
+
+  <% if(error) { %>
+    <div class="alert alert-danger">Something went wrong</div>
+  <% } %>
+
+  <% if(success) { %>
+    <div class="alert alert-success"> Request was added </div>
+  <% } %>
+
+  
+  
+  <div class="container">
+    <div class="title-app col-6 mx-auto mb-5 text-center">
+      <h1><%=title%></h1>
+    </div>
+
+    <form class="d-flex justify-content-center" action="/form" method="get">
+      <button type="submit" class="btn btn-warning btn-lg ">Make an Appointment</button>
+    </form>
+    
+  </div>
+
+
+  <script src="/app.js"></script>
+</body>
+</html>
