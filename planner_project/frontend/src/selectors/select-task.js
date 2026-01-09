@@ -1,0 +1,1 @@
+export const selectTasks = state => state.board.tasks;
